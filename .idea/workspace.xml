@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c38c89f-d752-4c78-81ef-80a3f010940c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/Gym.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/androidTest/java/com/example/gym/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/AboutDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/AddingFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/ExercisesRecViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/MoreDetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/SeeAllActivitiesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/myPlanActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/java/com/example/gym/navigatorActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/anim/close_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/anim/close_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/anim/in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/anim/out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-anydpi/ic_jogging.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-anydpi/ic_star.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-hdpi/ic_jogging.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-hdpi/ic_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-mdpi/button_disable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-mdpi/button_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-mdpi/ic_jogging.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-mdpi/ic_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-xhdpi/ic_jogging.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-xhdpi/ic_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-xxhdpi/ic_jogging.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable-xxhdpi/ic_star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable/button_custom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable/button_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/layout/about_dialog_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/layout/activity_more_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/layout/activity_my_plan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/layout/activity_navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/layout/activity_see_all_activities_activitiy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/layout/add_to_my_activity_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/layout/exercise_rec_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/app/src/test/java/com/example/gym/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/test.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Gym/university.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Enums/OrderType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Enums/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Enums/StatusCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/IBaseRepositoryDA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/IDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/IName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/IOrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/IPaymentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/IPersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/IPriceListRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/IReceiverRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/ISenderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/ITrackingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Interfaces/ITransportRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Models/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Models/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Models/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Models/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Models/Tracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Models/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/MsSQL/OrderRepositoryMs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/MsSQL/PaymentRepositoryMs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/MsSQL/PersonRepositoryMs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/MsSQL/PriceListRepositoryMs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/MsSQL/ReceiverRepositoryMs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/MsSQL/SenderRepositoryMs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/MsSQL/TrackingRepositoryMs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/MsSQL/TransportRepositoryMs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/mongoDB/OrderRepositoryMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/mongoDB/PaymentRepositoryMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/mongoDB/PersonRepositoryMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/mongoDB/PriceListRepositoryMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/mongoDB/ReceiverRepositoryMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/mongoDB/SenderRepositoryMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/mongoDB/TrackingRepositoryMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DAL/Repositories/mongoDB/TransportRepositoryMdb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Helper/Implementation/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Helper/Interfaces/IBaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Calculations/IncomeDuringAPeriodService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Calculations/PaymentsDuringAPeriodService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/IBaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/DateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/NameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/PriceListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/ReceiverService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/SenderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/TrackingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Implementations/TransportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Calculations/IIncomeDuringAPeriod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Calculations/IPaymentsDuringAPeriod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/IDateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/INameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/IPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/IPersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/IPriceListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/IReceiverService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/ISenderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/ITrackingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/Interfaces/Repositories/ITransportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AutomationUsingMock/IncomeDuringAPeriodServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AutomationUsingMock/PaymentDuringAPeriodServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Connections/DataBaseConnectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Integreted/BaseResponsesPaymentServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Integreted/BaseResponsesTrackingServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Integreted/BaseResponsesTransportServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IZgIAT60Vr6dq9hRRXndykqeTe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/my logiciels/sqljdbc_11.2/enu/mssql-jdbc-11.2.0.jre18.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;MongoDB-JSON-Query&quot;,
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ФАИС\ИП-31\cwVersion0.2\TransportService\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="DAL.Repositories.MsSQL" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in TransportService">
+    <configuration name="All in TransportService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TransportService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseResponsesPaymentServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TransportService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Integreted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Integreted" />
+      <option name="MAIN_CLASS_NAME" value="Integreted.BaseResponsesPaymentServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseResponsesPaymentServiceTest.paySuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TransportService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Integreted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Integreted" />
+      <option name="MAIN_CLASS_NAME" value="Integreted.BaseResponsesPaymentServiceTest" />
+      <option name="METHOD_NAME" value="paySuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseResponsesPaymentServiceTest.payUnsuccessfullyThrowsSQLException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TransportService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Integreted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Integreted" />
+      <option name="MAIN_CLASS_NAME" value="Integreted.BaseResponsesPaymentServiceTest" />
+      <option name="METHOD_NAME" value="payUnsuccessfullyThrowsSQLException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseResponsesTrackingServiceTest.deleteTransportMeanByIdUnsuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TransportService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Integreted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Integreted" />
+      <option name="MAIN_CLASS_NAME" value="Integreted.BaseResponsesTrackingServiceTest" />
+      <option name="METHOD_NAME" value="deleteTransportMeanByIdUnsuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in TransportService" />
+        <item itemvalue="JUnit.BaseResponsesPaymentServiceTest" />
+        <item itemvalue="JUnit.BaseResponsesPaymentServiceTest.payUnsuccessfullyThrowsSQLException" />
+        <item itemvalue="JUnit.BaseResponsesPaymentServiceTest.paySuccessfully" />
+        <item itemvalue="JUnit.BaseResponsesTrackingServiceTest.deleteTransportMeanByIdUnsuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c38c89f-d752-4c78-81ef-80a3f010940c" name="Changes" comment="" />
+      <created>1670394445776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670394445776</updated>
+      <workItem from="1670394460918" duration="16743000" />
+      <workItem from="1670422931245" duration="23517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TransportService$IncomeDuringAPeriodServiceTest_incomeDuringAPeriodEquals65.ic" NAME="IncomeDuringAPeriodServiceTest.incomeDuringAPeriodEquals65 Coverage Results" MODIFIED="1670426117985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>AutomationUsingMock.*</FILTER>
+    </SUITE>
+  </component>
+</project>
